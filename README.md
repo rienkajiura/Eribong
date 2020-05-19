@@ -1,4 +1,4 @@
-# EXO-Fanlight-Controller
+# Eribong Project
 EXO Fanlight Project - Control the Eribong independent from the Wyth App
 
 
